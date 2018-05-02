@@ -1,4 +1,4 @@
-# Sandwich Club Project Starter Code
+# Sandwich Club Project
 
 ## Project Overview
 **Sandwich Club** app is a quick way for users to find the origins of
